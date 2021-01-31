@@ -46,6 +46,8 @@ img{
     margin: 0 7px;
 }
 
+/* list-style-image: url("../../media/examples/rocket.svg"); */
+
 #reussite, #vivre, #covid, #fun{
     background-color: #fff;
     padding: 20px;
